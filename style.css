@@ -1,0 +1,326 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+.progress {
+    margin: 0;
+    background-image: url("/image//pexels-ella-olsson-1640770.jpg");
+    background-size: cover;
+    height: 500px;
+}
+
+.first-section {
+    display: flex;
+    margin-left: 150px;
+    gap: 30px;
+    text-shadow: 2px 2px 2px 2px black;
+}
+.first-section h3 {
+    color: blueviolet;
+    font-size: 30px;
+    font-style: italic;
+}
+
+.first-section h6 {
+    font-size: 15px;
+    padding-top: 15px;
+    word-spacing: 10px;
+    margin-left: 50px;
+}
+.first-section h5 {
+    font-style: italic;
+    color: blue;
+    padding-top: 15px;
+    font-size: 15px;
+    margin-left: 250px;
+}
+
+.second-section {
+    margin-left: 450px;
+    padding-top: 100px;
+}
+
+.second-section h2 {
+
+    font-size: 40px;
+    color: rgb(61, 61, 147);
+
+}
+.second-section p {
+    color: rgb(61, 61, 147);
+    font-style: italic;
+    padding-top: 30px;
+}
+
+/*this is the styling for the first button*/
+
+.btn-1 {
+    background-color: tomato;
+    border-color: transparent;
+    padding: 8px 20px 8px 20px;
+    border-radius: 3px;
+    color: white;
+    box-shadow: 2px 2px 2px 0px  white;
+    margin-top: 40px;
+}
+/*styling  for the image and the ketters*/
+
+.second-progress {
+    padding-top: 60px ;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.img {
+    width: 350px;
+    border-bottom-right-radius: 80px;
+    image-rendering: optimizeQuality;
+}
+
+.second-season {
+    padding-top: 80px;
+}
+
+.second-season h2 {
+    font-size: 40px;
+    color: rgb(61, 61, 147);
+}
+.second-season p {
+    color: rgb(61, 61, 147);
+    font-style: italic;
+    padding-top: 30px;
+}
+
+.btn-2 {
+    background-color: tomato;
+    border-color: transparent;
+    padding: 8px 20px 8px 20px;
+    border-radius: 3px;
+    color: white;
+    box-shadow: 2px 2px 2px 0px  white;
+    margin-top: 40px;
+}
+.img-1 {
+    width: 200px;
+    border-radius: 15px;
+    margin-left: 100px;
+    margin-bottom: -50px;
+}
+.img-2 {
+    width: 300px;
+    height: 200px;
+    border-radius: 15px;
+}
+
+.img-3 {
+    width: 300px;
+    border-radius: 15px;
+    
+}
+.img-4 {
+    width: 200px;
+    border-radius: 15px;
+    margin-bottom: 120px;
+}
+.third-progress {
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.fourth-progress {
+    background-image: url("/image//pexels-viktoria-alipatova-2074130.jpg");
+    background-size: cover;
+    height: 500px;
+    margin-top: 50px;
+}
+
+.fourth-progress h4 {
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 200px;
+}
+
+.fourth-progress p {
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-style: italic;
+}
+.fifth-section{
+    text-align: center;
+    padding-top: 30px;
+
+}
+
+.fifth-section p {
+    font-style: italic;
+    padding-top: 20px;
+    color:  rgb(61, 61, 147);
+}
+
+.fifth-section h1 {
+    font-size: 40px;
+    color:  rgb(61, 61, 147);
+}
+.image {
+    width: 350px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.imge {
+    width: 350px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    height: 230px;
+}
+
+
+.card {
+    background-color: rgb(247, 241, 241);
+    width: 350px;
+    border-radius: 10px;
+    height: 330px;
+}
+
+.card-1 {
+    padding-top: 15px;
+    margin-left: 15px;   
+}
+.card-1 p {
+    font-style: italic;
+    padding-top: 10px;
+    color: rgb(61, 61, 147);
+}
+
+.card-1 h3{
+    color: rgb(61, 61, 147);
+}
+
+.card-2 {
+    color: tomato;
+    margin-left: 60px;
+}
+.sixth-progress {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding-top: 40px;
+}
+
+.btn-3 {
+    background-color: tomato;
+    border-color: transparent;
+    padding: 8px 30px 8px 30px;
+    border-radius: 3px;
+    color: white;
+    box-shadow: 2px 2px 2px 0px  white;
+    margin-top: 40px;
+}
+.sevent-progress{
+    text-align: center;
+    padding-top: 20px;
+}
+.sevent-progress h1 {
+    padding-top: 40px;
+    color: rgb(61, 61, 147);
+}
+.eight-progress {
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+    gap: 10px;
+    
+
+}
+
+.nine-progress {
+    background-color: white;
+    width: 700px;
+    padding: 30px;
+    display: block;
+    margin-left: 255px;
+    margin-top: 50px;
+    text-align: center;
+    box-shadow: 2px 2px 2px 2px black;
+    border-radius: 5px;
+}
+.done {
+    margin-top: -13px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.btn-4 {
+    background-color: tomato;
+    border-color: transparent;
+    padding: 15px 50px 15px 50px;
+    border-radius: 3px;
+    color: white;
+    box-shadow: 2px 2px 2px 0px  white;
+    margin-top: 40px;
+}
+
+.input{
+    width: 400px;
+    height: 43px;
+    margin-top: 39px;
+    font-size: 20px;
+    
+}
+
+.ten-section {
+    display: flex;
+    margin-left: 150px;
+    gap: 30px;
+    margin-top: 100px;
+}
+.first-section {
+    display: flex;
+    margin-left: 150px;
+    gap: 30px;
+}
+.ten-section h3 {
+    color: blueviolet;
+    font-size: 30px;
+    font-style: italic;
+}
+
+.ten-section h6 {
+    font-size: 15px;
+    padding-top: 15px;
+    word-spacing: 10px;
+    margin-left: 50px;
+}
+.ten-section h5 {
+    font-style: italic;
+    color: blue;
+    padding-top: 15px;
+    font-size: 15px;
+    margin-left: 50px;
+}
+.donfor {
+    border-radius: 8px;
+    box-shadow: 1px 3px 1px 1px black;
+}
+.code-1 {
+    margin-top: 50px;
+    display: flex;
+    margin-left: 10px;
+    gap: 10px;
+    text-shadow: 2px 2px 2px 2px black;
+}
+.code-1 h4, h3 {
+    color: rgb(61, 61, 147)
+}
+.text {
+    color: black;
+    text-shadow: 2px 3px 4px 5px black;
+}
+
+
